@@ -15,8 +15,7 @@ ___
 
 ### 공부 내용 기록
 ##### 섹션 0. 1부 JUnit 5
-- [JUnit 5의 구조](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/JUnit%205%EC%9D%98%20%EA%B5%AC%EC%A1%B0.md)
-- [라이브러리 의존성 설정](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/JUnit%205%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%84%A4%EC%A0%95.md)
-- [접근 제한자](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/%EC%A0%91%EA%B7%BC%20%EC%A0%9C%ED%95%9C%EC%9E%90.md)
-
-
+- [JUnit 5의 구조](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/JUnit%205%EC%9D%98%20%EA%B5%AC%EC%A1%B0.md) (2022.07.10)
+- [라이브러리 의존성 설정](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/JUnit%205%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%84%A4%EC%A0%95.md) (2022.07.10)
+- [접근 제한자](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/%EC%A0%91%EA%B7%BC%20%EC%A0%9C%ED%95%9C%EC%9E%90.md) (2022.07.10)
+- [Assertion](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/Assertion.md) (2022.07.12)
