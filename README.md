@@ -24,3 +24,4 @@ ___
 - [커스텀 태그](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/%EC%BB%A4%EC%8A%A4%ED%85%80%20%ED%83%9C%EA%B7%B8.md) (2022.07.14)
 - [테스트 반복하기] (미완료)
 - [테스트 인스턴스](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4.md) (2022.07.14)
+- [테스트 순서](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%88%9C%EC%84%9C.md) (2022.07.15)
