@@ -50,7 +50,8 @@ ___
 - [JMeter 사용하기](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/JMeter%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
 ##### 운영 이슈 테스트
-- [Chaos Monkey 소개]
-- [CM4SB 설치]
-- [CM4SB 응답 지연]
-- [CM4SB 에러 발생]
+- [Chaos Monkey 소개](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/Chaos%20Monkey%20%EC%86%8C%EA%B0%9C.md)
+- [CM4SB 설치](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/CM4SB%20%EC%84%A4%EC%B9%98.md)
+- [CM4SB 엔드포인트](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/CM4SB%20Endpoint.md)
+- [CM4SB 응답 지연](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/CM4SB%20%EC%9D%91%EB%8B%B5%20%EC%A7%80%EC%97%B0.md)
+- [CM4SB 에러 발생](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/CM4SB%20%EC%97%90%EB%9F%AC%20%EB%B0%9C%EC%83%9D.md)
