@@ -7,14 +7,14 @@ JUnit 5 공부 및 내용 정리
 
 ### Goal
 
-- 프로젝트 개발시 단위 테스트 기능을 능숙하게 사용하기 위함
+- 프로젝트 개발시 테스트 기능을 능숙하게 사용하기 위함
 - 강의 커리큘럼에 따라 6주간 학습 진행 (2022.07.10 ~ 2022.08.20)
 - 블로그 or 깃허브 레포지토리에 기록 남기기
 
 ___
 
 ### 공부 내용 기록
-##### 1부 JUnit 5
+##### JUnit 5
 - [JUnit 5의 구조](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/JUnit%205%EC%9D%98%20%EA%B5%AC%EC%A1%B0.md) 
 - [라이브러리 의존성 설정](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/JUnit%205%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%84%A4%EC%A0%95.md)
 - [접근 제한자](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/%EC%A0%91%EA%B7%BC%20%EC%A0%9C%ED%95%9C%EC%9E%90.md)
@@ -55,3 +55,12 @@ ___
 - [CM4SB 엔드포인트](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/CM4SB%20Endpoint.md)
 - [CM4SB 응답 지연](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/CM4SB%20%EC%9D%91%EB%8B%B5%20%EC%A7%80%EC%97%B0.md)
 - [CM4SB 에러 발생](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/CM4SB%20%EC%97%90%EB%9F%AC%20%EB%B0%9C%EC%83%9D.md)
+
+##### 아키텍처 테스트
+- [ArchUnit 소개](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/ArchUnit%20%EC%86%8C%EA%B0%9C.md)
+- [ArchUnit 설치](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/ArchUnit%20%EC%84%A4%EC%B9%98.md)
+- [ArchUnit 사용 순서](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/ArchUnit%20%EC%82%AC%EC%9A%A9%20%EC%88%9C%EC%84%9C.md)
+- [ArchUnit 패키지 의존성 확인하기](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/ArchUnit%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md)
+- [ArchUnit 패키지 순환참조 확인하기](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/ArchUnit%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EC%88%9C%ED%99%98%EC%B0%B8%EC%A1%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md)
+- [ArchUnit 클래스 의존성 확인하기](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/ArchUnit%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md)
+- [ArchUnit Junit5 연동](https://github.com/Kim-Juwon/today-i-learned/blob/main/junit5/ArchUnit%20JUnit5%20%EC%97%B0%EB%8F%99.md)
